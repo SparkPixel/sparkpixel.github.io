@@ -1,0 +1,17 @@
+header {
+    color: white;
+    background-color: red;
+}
+nav {
+    background: black;
+}
+nav a{
+    color:white;
+}
+main {
+    background:lightgrey
+}
+footer {
+    color: white;
+    background:black
+}
